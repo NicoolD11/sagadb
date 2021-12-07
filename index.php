@@ -19,30 +19,30 @@
     </nav>
 
        <ul>
-    <li>DRAGON BALL</li>
-    <div class="db">
-<a href="https://dragonball.sullca.com/capitulos"><img src="img/db.jpg"></a>
-</div>
-    <li>DRAGON BALL Z</li>
-    <div class="dbz">
-<a href="https://dragonball.sullca.com/capitulos/dragon-ball-z"><img src="img/dbz.jpg"></a>
-</div>
-    <li>DRAGON BALL GT</li>
-    <div class="dbg">
-<a href="https://dragonball.sullca.com/capitulos/dragon-ball-gt"><img src="img/dbgt.jpg"></a>
-</div>
-    <li>DRAGON BALL KAI</li>
-    <div class="dbk">
-<a href="https://dragonball.sullca.com/capitulos/dragon-ball-kai"><img src="img/dbkai.jpg"></a>
-</div>
-    <li>DRAGON BALL SUPER</li>
-    <div class="dbs">
-<a href="https://dragonball.sullca.com/capitulos/dragon-ball-super-latino"><img src="img/dbsup.jpg"></a>
-</div>
-    <li>SUPER DRAGON BALL HEROES</li>
-    <div class="sdbh">
-<a href="https://dragonball.sullca.com/capitulos/dragon-ball-heroes"><img src="img/sdbh.jpg"></a>
-</div>
+            <li>DRAGON BALL</li>
+            <div class="cajaimg">
+        <a href="https://dragonball.sullca.com/capitulos"><img src="img/db.jpg" class="imagenes"></a>
+        </div>
+            <li>DRAGON BALL Z</li>
+            <div class="cajaimg">
+        <a href="https://dragonball.sullca.com/capitulos/dragon-ball-z"><img src="img/dbz.jpg" class="imagenes"></a>
+        </div>
+            <li>DRAGON BALL GT</li>
+            <div class="cajaimg">
+        <a href="https://dragonball.sullca.com/capitulos/dragon-ball-gt"><img src="img/dbgt.jpg" class="imagenes"></a>
+        </div>
+            <li>DRAGON BALL KAI</li>
+            <div class="cajaimg">
+        <a href="https://dragonball.sullca.com/capitulos/dragon-ball-kai"><img src="img/dbkai.jpg" class="imagenes"></a>
+        </div>
+            <li>DRAGON BALL SUPER</li>
+            <div class="cajaimg">
+        <a href="https://dragonball.sullca.com/capitulos/dragon-ball-super-latino"><img src="img/dbsup.jpg" class="imagenes"></a>
+        </div>
+            <li>SUPER DRAGON BALL HEROES</li>
+            <div class="cajaimg">
+        <a href="https://dragonball.sullca.com/capitulos/dragon-ball-heroes"><img src="img/sdbh.jpg" class="imagenes"></a>
+        </div>
          </ul>
 
 
