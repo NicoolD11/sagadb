@@ -3,10 +3,5 @@
 }
 
 .cajaimg {
-    width: 50%;
-}
-
-.conav {
-    --main-header-color: linear-gradient(45deg, #3070B9, #B93030);
-    --main-red: #c71212;
+    width: 100px;
 }
