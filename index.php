@@ -10,7 +10,7 @@
     <link rel="stylesheet" type="text/css" href="css/estilo.css">
     <title>SAGADB</title>
   </head>
-  <body class="container">
+  <body>
     <!-- ENCABEZADO-->
     <nav class="navbar navbar-light bg-light" >
     <div class="container-fluid" class="conav">
