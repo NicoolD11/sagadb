@@ -11,11 +11,24 @@
     <title>SAGADB</title>
   </head>
   <body>
-  <nav class="navbar navbar-light bg-light">
-  <div class="container-fluid">
-    <span class="navbar-brand mb-0 h1">SAGA COMPLETA DRAGON BALL</span>
-  </div>
-</nav>
+    <!-- ENCABEZADO-->
+    <nav class="navbar navbar-light bg-light">
+    <div class="container-fluid">
+        <span class="navbar-brand mb-0 h1" style="margin-left:45%;">SAGA COMPLETA DRAGON BALL</span>
+    </div>
+    </nav>
+
+       <ul>
+    <li>Elemento 1</li>
+    <li>Elemento 2</li>
+    <li>Elemento 3</li>
+    <li>Elemento 4</li>
+    <li>Elemento 5</li>
+    <li>Elemento 6</li>
+    <li>Elemento 7</li>
+         </ul>
+
+
 
     <!-- Optional JavaScript; choose one of the two! -->
 
