@@ -33,13 +33,13 @@
 <a href="https://dragonball.sullca.com/capitulos/dragon-ball-z"><img src="img/dbz.jpg"></a>
 </div>
 <div class="dbg">
-<a href="https://dragonball.sullca.com/capitulos/dragon-ball-gt"><img src="img/dbg.jpg"></a>
+<a href="https://dragonball.sullca.com/capitulos/dragon-ball-gt"><img src="img/dbgt.jpg"></a>
 </div>
 <div class="dbk">
-<a href="https://dragonball.sullca.com/capitulos/dragon-ball-kai"><img src="img/dbk.jpg"></a>
+<a href="https://dragonball.sullca.com/capitulos/dragon-ball-kai"><img src="img/dbkai.jpg"></a>
 </div>
 <div class="dbs">
-<a href="https://dragonball.sullca.com/capitulos/dragon-ball-super-latino"><img src="img/dbs.jpg"></a>
+<a href="https://dragonball.sullca.com/capitulos/dragon-ball-super-latino"><img src="img/dbsup.jpg"></a>
 </div>
 <div class="sdbh">
 <a href="https://dragonball.sullca.com/capitulos/dragon-ball-heroes"><img src="img/sdbh.jpg"></a>
