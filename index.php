@@ -20,30 +20,36 @@
 
        <ul>
     <li>DRAGON BALL</li>
-    <li>DRAGON BALL Z</li>
-    <li>DRAGON BALL GT</li>
-    <li>DRAGON BALL KAI</li>
-    <li>DRAGON BALL SUPER</li>
-    <li>SUPER DRAGON BALL HEROES</li>
-         </ul>
-         <div class="db">
+    <div class="db">
 <a href="https://dragonball.sullca.com/capitulos"><img src="img/db.jpg"></a>
 </div>
-<div class="dbz">
+    <li>DRAGON BALL Z</li>
+    <div class="dbz">
 <a href="https://dragonball.sullca.com/capitulos/dragon-ball-z"><img src="img/dbz.jpg"></a>
 </div>
-<div class="dbg">
+    <li>DRAGON BALL GT</li>
+    <div class="dbg">
 <a href="https://dragonball.sullca.com/capitulos/dragon-ball-gt"><img src="img/dbgt.jpg"></a>
 </div>
-<div class="dbk">
+    <li>DRAGON BALL KAI</li>
+    <div class="dbk">
 <a href="https://dragonball.sullca.com/capitulos/dragon-ball-kai"><img src="img/dbkai.jpg"></a>
 </div>
-<div class="dbs">
+    <li>DRAGON BALL SUPER</li>
+    <div class="dbs">
 <a href="https://dragonball.sullca.com/capitulos/dragon-ball-super-latino"><img src="img/dbsup.jpg"></a>
 </div>
-<div class="sdbh">
+    <li>SUPER DRAGON BALL HEROES</li>
+    <div class="sdbh">
 <a href="https://dragonball.sullca.com/capitulos/dragon-ball-heroes"><img src="img/sdbh.jpg"></a>
 </div>
+         </ul>
+
+
+
+
+
+
 
 
     <!-- Optional JavaScript; choose one of the two! -->
