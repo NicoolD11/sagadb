@@ -19,7 +19,7 @@
     </nav>
 
 
-       <ul style="text-align:center">
+       <ul style="margin-left:50%;margin-right:50%;">
             <li>DRAGON BALL</li>
             <div class="cajaimg">
         <a href="https://dragonball.sullca.com/capitulos"><img src="img/db.jpg" class="imagenes"></a>
