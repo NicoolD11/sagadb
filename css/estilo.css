@@ -1,3 +1,7 @@
+:root{
+	--main-header-color:linear-gradient(45deg,#3070B9,#B93030);
+	--main-red:#c71212;
+}
 .imagenes {
     width: 100%;
 }
