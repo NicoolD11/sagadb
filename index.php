@@ -26,6 +26,7 @@
     <li>DRAGON BALL SUPER</li>
     <li>SUPER DRAGON BALL HEROES</li>
          </ul>
+<a href="https://dragonball.sullca.com/capitulos"><img src="img/db.jpg"></a>
 
 
 
