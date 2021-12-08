@@ -19,56 +19,51 @@
     </nav>
 <h1 class="titulo"> DRAGON BALL</h1>
 
-
+<div>
        <ul style="margin-left:29%;">
             <li>DRAGON BALL</li>
+            <br>
             <div class="cajaimg">
         <a href="https://dragonball.sullca.com/capitulos"><img src="img/db.jpg" class="imagenes"></a>
      
         </div>
         <br>
             <li>DRAGON BALL Z</li>
+            <br>
             <div class="cajaimg">
         <a href="https://dragonball.sullca.com/capitulos/dragon-ball-z"><img src="img/dbz.jpg" class="imagenes"></a>
         </div>
         <br>
             <li>DRAGON BALL GT</li>
+            <br>
             <div class="cajaimg">
         <a href="https://dragonball.sullca.com/capitulos/dragon-ball-gt"><img src="img/dbgt.jpg" class="imagenes"></a>
         </div>
         <br>
             <li>DRAGON BALL KAI</li>
+            <br>
             <div class="cajaimg">
         <a href="https://dragonball.sullca.com/capitulos/dragon-ball-kai"><img src="img/dbkai.jpg" class="imagenes"></a>
         </div>
         <br>
             <li>DRAGON BALL SUPER</li>
+            <br>
             <div class="cajaimg">
         <a href="https://dragonball.sullca.com/capitulos/dragon-ball-super-latino"><img src="img/dbsup.jpg" class="imagenes"></a>
         </div>
         <br>
             <li>SUPER DRAGON BALL HEROES</li>
+            <br>
             <div class="cajaimg">
         <a href="https://dragonball.sullca.com/capitulos/dragon-ball-heroes"><img src="img/sdbh.jpg" class="imagenes"></a>
-        <div class="burbujas">
-    <div></div>
-    <div></div>
-    <div></div>
-    <div></div>
-    <div></div>
-    <div></div>
-    <div></div>
-    <div></div>
-    <div></div>
-    <div></div>
-    <div></div>
-    <div></div>
-    <div></div>
-    <div></div>
-  </div>
-        </div>
+</div>
+
+</ul>
+</div>
+
+   
         
-         </ul>
+         
       
       
 <footer>
